@@ -30,6 +30,3 @@
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) 
 
 
-## GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ddmitriylee&theme=dark&hide_border=false&count_private=true&layout=compact)
